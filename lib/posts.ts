@@ -67,3 +67,24 @@ export async function getPostData(id: string) {
     ...(matterResult.data as { date: string; title: string })
   }
 }
+
+export async function getContent(pagePath='/pages/frow-ride') {
+  const fullPath = path.join(process.cwd(), `${pagePath}/content.md`)
+  console.log({pagePath, fullPath});
+  const fileContents = fs.readFileSync(fullPath, 'utf8')
+  // Use gray-matter to parse the post metadata section
+  const matterResult = matter(fileContents)
+
+  // Use remark to convert markdown into HTML string
+  const processedContent = await remark()
+    .use(html)
+    .process(matterResult.content)
+  const contentHtml = processedContent.toString()
+
+  // Combine the data with the id and contentHtml
+  return {
+    contentHtml,
+    ...(matterResult.data as { date: string; title: string })
+  }
+
+}
