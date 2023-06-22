@@ -26,6 +26,18 @@ export default function FrowRide({
     <Layout skipHeader>
       <Head>
         <title>The Frow Ride</title>
+        <meta
+          key="description"
+          name="description"
+          content="Kids ride The Forest Way together"
+        />
+        <meta
+          key="og:image"
+          property="og:image"
+          content="https://frowpta.co.uk/images/Childrens-Cycle-Event.png"
+        />
+        <meta key="og:title" name="og:title" content="The Frow Ride" />
+        <meta key="twitter:card" name="twitter:card" content="summary_large_image" />
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{pageData.title}</h1>

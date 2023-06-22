@@ -22,17 +22,19 @@ export default function Layout({
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta
+          key="description"
           name="description"
           content="The online home for PTA of Forest Row Primary School"
         />
         <meta
+          key="og:image"
           property="og:image"
           content={`https://og-image.vercel.app/${encodeURI(
             siteTitle
           )}.png?theme=light&md=0&fontSize=75px`}
         />
-        <meta name="og:title" content={siteTitle} />
-        <meta name="twitter:card" content="summary_large_image" />
+        <meta key="og:title" name="og:title" content={siteTitle} />
+        <meta key="twitter:card" name="twitter:card" content="summary_large_image" />
       </Head>
       {includeHeader && (
         <header className={styles.header}>
