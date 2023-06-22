@@ -24,7 +24,7 @@ export default function FrowRide({
   };
 }) {
   return (
-    <Layout home>
+    <Layout>
       <Head>
         <title>The Frow Ride</title>
       </Head>
