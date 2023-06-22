@@ -33,7 +33,8 @@ export default function FrowRide({
         />
         <meta
           key="og:image"
-          property="og:image"
+          property="og:image:secure_url"
+          itemProp="image"
           content="https://frowpta.co.uk/images/Childrens-Cycle-Event.png"
         />
         <meta key="og:title" name="og:title" content="The Frow Ride" />
