@@ -72,7 +72,7 @@ The Forest Way will remain open to dog walkers, other cyclists and parents with 
 5. Under 10s need to be accompanied by a responsible adult (who can keep up!)
 6. Responsible adults can supervise more than one child
 7. Children of any age can take part providing they can follow the code of conduct
-8. Helmets mandatory for under 18s
+8. Helmets strongly advised for under 18s
 
 
 ![](/images/Childrens-Cycle-Event.png)
