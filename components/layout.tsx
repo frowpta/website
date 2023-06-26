@@ -33,6 +33,7 @@ export default function Layout({
             siteTitle
           )}.png?theme=light&md=0&fontSize=75px`}
         />
+        <meta property="og:type" content="website" />
         <meta key="og:title" name="og:title" content={siteTitle} />
         <meta key="twitter:card" name="twitter:card" content="summary_large_image" />
       </Head>
