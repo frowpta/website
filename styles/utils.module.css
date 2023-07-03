@@ -50,3 +50,19 @@
 .lightText {
   color: #666;
 }
+
+.cta {
+  display: block;
+  border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+  font-size: 120%;
+  color: white;
+  background-color: #79895a;
+}
+
+.cta:hover {
+  background-color: #92a76a;
+  color: #fdf299;
+  text-decoration: none;
+}
