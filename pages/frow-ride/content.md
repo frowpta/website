@@ -3,65 +3,69 @@ title: 'The Frow Ride'
 date: '2023-06-21'
 ---
 
-## Where
+## Where 📍
 
-Meet at the Scout Hut, on the Forest Way
+Meet at the Scout Hut in the Forest Row.
 
+## When ⏰
 
-## When
+The event runs from 9am-12pm. Last entries will be at 11am and we expect last finishers by 12pm-ish.
 
-The event runs from 9am-12pm. Last entries will be at approximately 11am. 
-
-
-## Entry Fee
+## Entry Fee 🖐
 
 £5 per entry. (Adults don't need to pay an entry fee for themselves)
 
-## What's the event about?
+## What's the event about? 🚲
 
-The event is designed to get children cycling with friends, in a safe environment. We're so lucky to have the Forest Way running through our village. Let's make the most of it!
+This is about getting kids riding bikes together with friends.
 
-## What will happen?
+Each child will be given a card with spaces for stamps. We'll start at the Scout Hut in Forest Row, head along the Forest Way towards Hartfield, then back again. At each kilometre marker, we'll have a station where you can stamp your card. Choose your own distance, whether it’s 2 or 12km.
 
-All children will be given a card with spaces for stamps. Stamping stations will be every kilometre. Children can pick their own distance, to make the event as inclusive and friendly as possible. The furthest stamping station will be at 5 km (tbc) so that would make a round trip of 10 km. 
+This is _not a race_. If you're looking for a challenge, why not push yourself to ride a bit further than you normally would? Can you make it to Hartfield and back? Or if that's too easy: can you do it a second time?
 
-## How do you enter?
+The Forest Way is a traffic-free route that follows a disused railway line. It’s almost flat, and it runs through miles and miles of our beautiful countryside. It’s a perfect route for kids on bikes. We're lucky to have the Forest Way running through our village. Let's make the most of it!
 
-We'd love as many children as possible to register in advance, so we have an idea of numbers. We'll have a link up soon. You can pay online or on the day. On the day registrations are fine as well. 
+## How do you enter? 🥁
 
-## What happens when a child completes the course?
+[⭐️⭐️⭐️ Registration for The Frow Ride is now open ⭐️⭐️⭐️](https://forms.gle/UxUMwsHH96Vq45kk6)
 
-All children get a medal for taking part and free refreshments. 
+Please sign up now, so that we can get an idea of how many kids and bikes to expect on the day of the event. You can [pay the entry fee online](https://forest-row-primary-school-pta.sumupstore.com/product/frow-ride-child-entry) with our Sumup store.
 
-## Who can take part?
+You will be able to register and pay on the day, but registering in advance means we can get you on your bike that bit quicker. 💫 🚲 💫
+
+## What happens when a child completes the course? 🏅
+
+All children get a medal for taking part and free refreshments.
+
+## Who can take part? 👶
 
 All children are welcome, including smaller children on balance bikes (or riding with an adult). We do need children to be able to follow basic instructions though. See the code of conduct below.
 
-## Do adults need to cycle with the children?
+## Do adults need to cycle with the children? 👨‍👧
 
 Yes, all children under 10 need to be accompanied by a responsible adult who can keep up! One adult can supervise multiple children. 
 
-## Is there anything else happening?
+## What else is happening? 🍔🧃
 
-There will be a barbecue at the Scout hut and refreshments for sale. 
+There will be a BBQ at the Scout hut and refreshments for sale. Make sure you bring a some extra cash for after the ride.
 
-## What if my child doesn't have a bike?
+## What if my child doesn't have a bike? 🚳
 
 Please get in touch and we'll find your child a bike. We'll need their age, and approximate weight and height.
 
-## Why is there an entry fee?
+## Why is there an entry fee? 🫙
 
 Part of the entry fee goes towards helping organise the event. The rest goes to Forest Row Primary School to fund enriching projects for the children. Please contact us if the entry fee is making you think twice.
 
-## Do kids need to wear helmets?
+## Do kids need to wear helmets? ⛑
 
-We can't tell you to put a helmet on your kid. It's your decision. However, we strongly advise you to do so in the interests of safety. The path is hard and stony in places. It's not a good surface to smack your head against. 
+We can't insist that you put a helmet on your kid. It's your decision. However, we strongly advise you to do so in the interests of safety. The path is hard and stony in places. It's not a good surface to smack your head against.
 
-## What if there's a problem with my child's bike?
-We'll have wardens and at least one bike mechanic on standby. We'll do our best to help your child finish the course. Please make sure that bikes are in good condition at the start.
+## What if we have bike problems? 🔧
 
+We'll have marshalls and bike mechanics on standby. We'll do our best to help your child finish the course. Please make sure that bikes are in good condition at the start.
 
-## Code of conduct
+## Code of conduct 📜
 
 The Forest Way will remain open to dog walkers, other cyclists and parents with prams. We need our children to show consideration, and will ask other Forest Way users to do the same. 
 
@@ -74,5 +78,8 @@ The Forest Way will remain open to dog walkers, other cyclists and parents with 
 7. Children of any age can take part providing they can follow the code of conduct
 8. Helmets strongly advised for under 18s
 
+These are guidelines. We're working with children. Let's do our best!
+
+The children under your care will remain your responsibility during the event. We don't accept any liability for accidents or other problems. We're all doing our best to make sure the day runs smoothly and the kids enjoy themselves.
 
 ![](/images/Childrens-Cycle-Event.png)
