@@ -9,7 +9,7 @@ Meet at the Scout Hut in the Forest Row.
 
 ## When ⏰
 
-The event runs from 9am-12pm. Last entries will be at 11am and we expect last finishers by 12pm-ish.
+The event runs from 9:30am-12:30pm. Last entries will be at 11:30am and we expect last finishers by 12:30pm-ish.
 
 ## Entry Fee 🖐
 
@@ -24,14 +24,6 @@ Each child will be given a card with spaces for stamps. We'll start at the Scout
 This is _not a race_. If you're looking for a challenge, why not push yourself to ride a bit further than you normally would? Can you make it to Hartfield and back? Or if that's too easy: can you do it a second time?
 
 The Forest Way is a traffic-free route that follows a disused railway line. It’s almost flat, and it runs through miles and miles of our beautiful countryside. It’s a perfect route for kids on bikes. We're lucky to have the Forest Way running through our village. Let's make the most of it!
-
-## How do you enter? 🥁
-
-[⭐️⭐️⭐️ Registration for The Frow Ride is now open ⭐️⭐️⭐️](https://forms.gle/UxUMwsHH96Vq45kk6)
-
-Please sign up now, so that we can get an idea of how many kids and bikes to expect on the day of the event. You can [pay the entry fee online](https://forest-row-primary-school-pta.sumupstore.com/product/frow-ride-child-entry) with our Sumup store.
-
-You will be able to register and pay on the day, but registering in advance means we can get you on your bike that bit quicker. 💫 🚲 💫
 
 ## What happens when a child completes the course? 🏅
 
@@ -81,5 +73,3 @@ The Forest Way will remain open to dog walkers, other cyclists and parents with 
 These are guidelines. We're working with children. Let's do our best!
 
 The children under your care will remain your responsibility during the event. We don't accept any liability for accidents or other problems. We're all doing our best to make sure the day runs smoothly and the kids enjoy themselves.
-
-![](/images/Childrens-Cycle-Event.png)
