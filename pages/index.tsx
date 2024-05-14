@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Check out our next event: <a href="/frow-ride">The Frow Ride</a>, on July 16th, 2023.
+          Check out our next event: <a href="/frow-ride">The Frow Ride</a>, on July 7th, 2024.
         </p>
       </section>
     </Layout>
