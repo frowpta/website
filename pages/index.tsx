@@ -1,6 +1,6 @@
-import Head from 'next/head'
-import Layout, { siteTitle } from '../components/layout'
-import utilStyles from '../styles/utils.module.css'
+import Head from "next/head";
+import Layout, { siteTitle } from "../components/layout";
+import utilStyles from "../styles/utils.module.css";
 
 export default function Home() {
   return (
@@ -10,10 +10,16 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Check out our next event: <a href="/frow-ride">The Frow Ride</a>, on July 7th, 2024.
+          Check out our next event: <a href="/frow-ride">The Frow Ride</a>, on
+          July 7th, 2024.
         </p>
-        <a href="/frow-ride"><img src="/images/illustration-black.png"/></a>
+        <a href="/frow-ride" className={utilStyles.posterLink}>
+          <img
+            src="/images/illustration-black.png"
+            className={utilStyles.posterImg}
+          />
+        </a>
       </section>
     </Layout>
-  )
+  );
 }
