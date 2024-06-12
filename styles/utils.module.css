@@ -67,3 +67,12 @@
   color: black;
   text-decoration: none;
 }
+
+.posterLink {
+  display: flex;
+  justify-content: center;
+}
+
+.posterImg {
+  width: 75%;
+}
