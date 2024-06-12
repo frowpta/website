@@ -12,6 +12,7 @@ export default function Home() {
         <p>
           Check out our next event: <a href="/frow-ride">The Frow Ride</a>, on July 7th, 2024.
         </p>
+        <a href="/frow-ride"><img src="/images/illustration-black.png"/></a>
       </section>
     </Layout>
   )
