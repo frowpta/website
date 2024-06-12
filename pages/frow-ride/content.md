@@ -9,7 +9,10 @@ Meet at the Scout Hut in the Forest Row.
 
 ## When ⏰
 
-The event runs on Sunday July 7th from 9:30am-12:30pm. Last entries will be at 11:30am and we expect last finishers by 12:30pm-ish.
+The event runs on Sunday July 7th from 9:30am-12:30pm. 
+
+You can ride together as a family. Last entries will be at 11:30am and we expect last finishers by 12:30pm.
+
 
 ## Entry Fee 🖐
 
