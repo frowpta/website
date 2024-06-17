@@ -11,8 +11,7 @@ Meet at the Scout Hut in the Forest Row.
 
 The event runs on Sunday July 7th from 9:30am-12:30pm. 
 
-You can ride together as a family. Last entries will be at 11:30am and we expect last finishers by 12:30pm.
-
+Last entries will be at 11:30am and we expect last finishers by 12:30pm.
 
 ## Entry Fee 🖐
 
@@ -27,6 +26,24 @@ Each child will be given a card with spaces for stamps. We'll start at the Scout
 This is _not a race_. If you're looking for a challenge, why not push yourself to ride a bit further than you normally would? Can you make it to Hartfield and back? Or if that's too easy: can you do it a second time?
 
 The Forest Way is a traffic-free route that follows a disused railway line. It’s almost flat, and it runs through miles and miles of our beautiful countryside. It’s a perfect route for kids on bikes. We're lucky to have the Forest Way running through our village. Let's make the most of it!
+
+## Ride with friends, ride with family
+
+You can ride together as a family. 
+
+This year, we've also arranged for children to set off together.
+
+**9:30am. Preschoolers**
+
+Bring your little ones on balance bikes or pedal bikes to ride a kilometre or two with other young cyclists. 
+
+**10:00am. 18 km round trip.**
+
+Encourage older kids to take on the 18km challenge with friends. Under 10s need an adult who can keep up.
+
+**10:45am. 6 to 16 km round trip** 
+
+Encourage your kids to have fun with friends and fellow cyclists aiming for a similar distance.
 
 ## What happens when a child completes the course? 🏅
 
