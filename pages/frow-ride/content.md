@@ -21,11 +21,25 @@ Last entries will be at 11:30am and we expect last finishers by 12:30pm.
 
 This is about getting kids riding bikes together with friends.
 
-Each child will be given a card with spaces for stamps. We'll start at the Scout Hut in Forest Row, head along the Forest Way towards Hartfield, then back again. At each kilometre marker, we'll have a station where you can stamp your card. Choose your own distance, whether it’s 2 or 12km.
+Each child will be given a card with spaces for stamps. We'll start at the Scout Hut in Forest Row, head along the Forest Way towards Hartfield, then back again. At each kilometre marker, we'll have a station where you can stamp your card. Choose your own distance, whether it’s 2 or 20km.
 
 This is _not a race_. If you're looking for a challenge, why not push yourself to ride a bit further than you normally would? Can you make it to Hartfield and back? Or if that's too easy: can you do it a second time?
 
 The Forest Way is a traffic-free route that follows a disused railway line. It’s almost flat, and it runs through miles and miles of our beautiful countryside. It’s a perfect route for kids on bikes. We're lucky to have the Forest Way running through our village. Let's make the most of it!
+
+## How far can my child go on a bike?
+
+You know your child best! But here are some rough guidelines.
+
+For a child aged **1 to 3 years old**, we recommend riding 'shotgun' on a childseat, fixed to an adult bike. Aim to turn homeward after 30 minutes.
+
+For children aged **2 to 4 years old**, we recommend using a balance bike. An adult can accompany them on foot. Aim to turn homeward at 1km, 1.5km, or 2km marker. No further! Remember that your toddler doesn't know how to pace themselves. They might say they want to keep going all the way to Hartfield, but it's too far! You'll be the one that has to carry them home, and their bike too.
+
+From age **4 to 9 years old** a child can ride a pedal bike, accompanied by an adult on a bike. Aim to turn homeward at 3km, 5km, or 7km marker, depending on your child's ability. We don't recommend running alongside your child. A kid on a bike goes faster than most grown-ups can run!
+
+Children aged **10 and up** may be ready to ride without a grown-up. If you're happy to let your child do that, this is a great oportunity for them to ride with support from the community. Aim to turn homeward at 5km, 6km or 7km marker.
+
+What if you've got two or more kids of different ages? Riding in groups of mixed ability can be frustrating. If you have friends with children of similar ages, why not try a child-swap for the ride? One parent can ride with a pair of younger kids, and the other parent can ride with a pair of older kids.
 
 ## Ride with friends, ride with family
 
