@@ -4,13 +4,7 @@ import Head from "next/head";
 import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
 import { GetStaticProps, GetStaticPaths } from "next";
-
-type PostData = {
-  title: string;
-  date: string;
-  contentHtml: string;
-  author?: string;
-};
+import { PostData } from "..";
 
 export default function Post({ postData }: { postData: PostData }) {
   return (
