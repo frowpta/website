@@ -35,7 +35,7 @@ export default function FrowRide({
           key="og:image"
           property="og:image:secure_url"
           itemProp="image"
-          content="https://frowpta.co.uk/images/Childrens-Cycle-Event-2024.png"
+          content="https://frowpta.co.uk/images/Childrens-Cycle-Event-2025.png"
         />
         <meta key="og:title" name="og:title" content="The Frow Ride" />
         <meta key="twitter:card" name="twitter:card" content="summary_large_image" />
