@@ -27,12 +27,12 @@ export default function Home(props: HomeProps) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Check out our next event: <a href="/frow-ride">The Frow Ride</a>, on
-          September 14th, 2025.
+          Check out our next event:{" "}
+          <a href="/school-disco">The School Disco!</a>
         </p>
-        <a href="/frow-ride" className={utilStyles.posterLink}>
+        <a href="/school-disco" className={utilStyles.posterLink}>
           <img
-            src="/images/illustration-black.png"
+            src="/images/disco-poster-october-2025.jpeg"
             className={utilStyles.posterImg}
           />
         </a>
