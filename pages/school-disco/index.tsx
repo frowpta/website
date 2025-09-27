@@ -42,8 +42,25 @@ export default function SchoolDisco({
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{pageData.title}</h1>
-        <a href="https://forms.gle/F4azwEt8Y83aebc5A" className={utilStyles.cta}>Register for the event</a>
         <div dangerouslySetInnerHTML={{ __html: pageData.contentHtml }} />
+
+        <h2>✅ Step 1: Register Your Child</h2>
+
+        <p>Let us know who’s coming and share any dietary needs.</p>
+
+        <p><strong>Parents/carers, please fill out this quick form:</strong></p>
+
+        <a href="https://forms.gle/F4azwEt8Y83aebc5A" className={utilStyles.cta}>👉 Register for the Disco 📝</a>
+
+        <h2>💳 Step 2: Buy Your Tickets</h2>
+
+        <p>Secure your child’s spot at the disco by purchasing tickets online.</p>
+
+        <p><strong>Tickets are £5 and include food and drink!</strong></p>
+
+        <a href="https://forest-row-primary-school-pta.sumupstore.com/product/school-disco" className={utilStyles.cta}>👉 Buy Tickets Now 🎟️</a>
+
+        
       </article>
     </Layout>
   );
