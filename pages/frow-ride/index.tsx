@@ -35,17 +35,17 @@ export default function FrowRide({
           key="og:image"
           property="og:image:secure_url"
           itemProp="image"
-          content="https://frowpta.co.uk/images/Childrens-Cycle-Event-2025.png"
+          content="https://frowpta.co.uk/images/Childrens-Cycle-Event-2026.png"
         />
         <meta key="og:title" name="og:title" content="The Frow Ride" />
         <meta key="twitter:card" name="twitter:card" content="summary_large_image" />
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{pageData.title}</h1>
-        <a href="https://forms.gle/etFiJsjA66TXunoV8" className={utilStyles.cta}>Register for the event</a>
+        {/* <a href="#" className={utilStyles.cta}>Register for the event</a> */}
         <div dangerouslySetInnerHTML={{ __html: pageData.contentHtml }} />
-        <p>Can you help with The Frow Ride?</p>
-        <a href="https://forms.gle/XHEPMV6sx1PZD9RPA" className={utilStyles.cta}>Volunteer here!</a>
+        {/* <p>Can you help with The Frow Ride?</p> */}
+        {/* <a href="#" className={utilStyles.cta}>Volunteer here!</a> */}
       </article>
     </Layout>
   );
