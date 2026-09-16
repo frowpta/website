@@ -27,8 +27,15 @@ export default function Home(props: HomeProps) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          We have no events planned at the moment. Check back later.
+          Check out our next event:{" "}
+          <a href="/frow-ride">The Frow Ride</a>, on October 9th, 2026.
         </p>
+        <a href="/frow-ride" className={utilStyles.posterLink}>
+          <img
+            src="/images/Childrens-Cycle-Event-2026.png"
+            className={utilStyles.posterImg}
+          />
+        </a>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>

@@ -1,6 +1,6 @@
 ---
 title: 'The Frow Ride'
-date: '2025-09-14'
+date: '2026-10-09'
 ---
 
 ## Where 📍
@@ -9,9 +9,9 @@ Meet at the Scout Hut in the Forest Row.
 
 ## When ⏰
 
-The event runs on Sunday, September 14th from 10am - 1pm.
+The event runs on Friday, October 9th from 3:30pm - 5:30pm.
 
-Last entries will be at 12pm and we expect last finishers by 1pm.
+Last entries will be at 4:30pm and we expect last finishers by 5:30pm.
 
 ## Entry Fee 🖐
 
