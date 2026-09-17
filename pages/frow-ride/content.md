@@ -36,6 +36,10 @@ All children get a medal for taking part and free refreshments.
 
 All children are welcome, including smaller children on balance bikes (or riding with an adult). We do need children to be able to follow basic instructions though. See the code of conduct below.
 
+## All welcome, even if you're not cycling 🙌
+
+Not every child is ready to take part this year, and that's absolutely fine! There are lots of ways to join in: walk some of the route, scoot over from school, or just come along and enjoy the BBQ. We'll have colouring and games set up in the Scout Hut, right by the event start point. Everyone is welcome — including parents who don't have a cyclist yet — to come and be part of this community event.
+
 ## Do adults need to cycle with the children? 👨‍👧
 
 Yes, all children under 10 need to be accompanied by a responsible adult who can keep up! One adult can supervise multiple children. 

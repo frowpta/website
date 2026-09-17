@@ -51,6 +51,14 @@ export default function Home(props: HomeProps) {
           ))}
         </ul>
       </section>
+      <section className={utilStyles.headingMd}>
+        <p>
+          For more about the PTA, visit the{" "}
+          <a href="https://www.forestrow.e-sussex.sch.uk/PTA/">
+            PTA page on the school website
+          </a>.
+        </p>
+      </section>
     </Layout>
   );
 }
