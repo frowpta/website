@@ -1,6 +1,6 @@
 ---
 title: 'The Frow Ride'
-date: '2026-10-09'
+date: '2026-10-10'
 ---
 
 ## Where 📍
@@ -9,9 +9,9 @@ Meet at the Scout Hut in the Forest Row.
 
 ## When ⏰
 
-The event runs on Friday, October 9th from 3:30pm - 5:30pm.
+The event runs on Saturday, October 10th from 3pm - 5pm.
 
-Last entries will be at 4:30pm and we expect last finishers by 5:30pm.
+Last entries will be at 4pm and we expect last finishers by 5pm.
 
 ## Entry Fee 🖐
 
@@ -43,12 +43,6 @@ Not every child is ready to take part this year, and that's absolutely fine! The
 ## Do adults need to cycle with the children? 👨‍👧
 
 Yes, all children under 10 need to be accompanied by a responsible adult who can keep up! One adult can supervise multiple children. 
-
-## School pickup logistics 🎀
-
-The Frow Ride is open to every child, not just those at Forest Row Primary School. If you're coming from elsewhere, just make your own way to the Scout Hut.
-
-For Forest Row Primary School children: please collect them from their classroom as usual. Year 5 and 6 children with a standing arrangement to leave school independently can continue to do so. We'll have adults helping children cross safely on the walk from school to the Scout Hut, much like we do for our walks to church, but getting your child to the start line is down to you. Once they're on the course, our marshals have them covered all the way round.
 
 ## What if my child doesn't have a bike? 🚳
 
