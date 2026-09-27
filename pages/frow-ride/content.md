@@ -5,7 +5,9 @@ date: '2026-10-10'
 
 ## Where 📍
 
-Meet at the Scout Hut in the Forest Row.
+Meet at the Scout Hut in Forest Row.
+
+(_What three words: [bars.firework.enacts](https://w3w.co/bars.firework.enacts)_)
 
 ## When ⏰
 
