@@ -42,7 +42,7 @@ export default function FrowRide({
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{pageData.title}</h1>
-        {/* <a href="#" className={utilStyles.cta}>Register for the event</a> */}
+        <a href="https://forms.gle/g7z9JyyoY9a7PPym6" className={utilStyles.cta}>Register for the event</a>
         <div dangerouslySetInnerHTML={{ __html: pageData.contentHtml }} />
         {/* <p>Can you help with The Frow Ride?</p> */}
         {/* <a href="#" className={utilStyles.cta}>Volunteer here!</a> */}
